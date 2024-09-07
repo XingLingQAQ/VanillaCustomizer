@@ -70,7 +70,7 @@
         </dependency>
 
         <dependency>
-            <groupId>dev.lone.LoneLibs</groupId>
+            <groupId>dev</groupId>
             <artifactId>LoneLibs</artifactId>
             <version>1.0.54</version>
             <scope>system</scope>
@@ -78,7 +78,7 @@
         </dependency>
 
         <dependency>
-            <groupId>libs</groupId>
+            <groupId>dev</groupId>
             <artifactId>ProtocolLib</artifactId>
             <version>5.2.0-SNAPSHOT-679</version>
             <scope>system</scope>
