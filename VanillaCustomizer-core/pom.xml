@@ -74,7 +74,7 @@
             <artifactId>LoneLibs</artifactId>
             <version>1.0.54</version>
             <scope>system</scope>
-            <systemPath>${jars_libs_folder}/LoneLibs.jar</systemPath>
+            <systemPath>${jars_libs_folder}</systemPath>
         </dependency>
 
         <dependency>
@@ -82,7 +82,7 @@
             <artifactId>ProtocolLib</artifactId>
             <version>5.2.0-SNAPSHOT-679</version>
             <scope>system</scope>
-            <systemPath>${jars_libs_folder}/ProtocolLib.jar</systemPath>
+            <systemPath>${jars_libs_folder}</systemPath>
         </dependency>
         <dependency>
             <groupId>org.jetbrains</groupId>
