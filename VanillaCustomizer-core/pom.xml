@@ -72,7 +72,7 @@
         <dependency>
             <groupId>dev.lone.LoneLibs</groupId>
             <artifactId>LoneLibs</artifactId>
-            <version>1.0</version>
+            <version>1.0.54</version>
             <scope>system</scope>
             <systemPath>${jars_libs_folder}/LoneLibs.jar</systemPath>
         </dependency>
@@ -80,7 +80,7 @@
         <dependency>
             <groupId>libs</groupId>
             <artifactId>ProtocolLib</artifactId>
-            <version>1.0</version>
+            <version>5.2.0-SNAPSHOT-679</version>
             <scope>system</scope>
             <systemPath>${jars_libs_folder}/ProtocolLib.jar</systemPath>
         </dependency>
